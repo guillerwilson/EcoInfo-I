@@ -1,0 +1,8 @@
+# install.packages("usethis")
+# install.packages("gitcreds")
+# library(usethis)
+# library(gitcreds)
+# create_github_token() # generar un token
+# gitcreds_set() # acceder al Git credential store
+
+...
